@@ -1,0 +1,10 @@
+com/devrobot/springbootecommerce/SpringBootEcommerceApplication.class
+com/devrobot/springbootecommerce/repository/UserRepository.class
+com/devrobot/springbootecommerce/resource/ProductResource.class
+com/devrobot/springbootecommerce/repository/CategoryRepository.class
+com/devrobot/springbootecommerce/model/Category.class
+com/devrobot/springbootecommerce/model/Product.class
+com/devrobot/springbootecommerce/resource/UserResource.class
+com/devrobot/springbootecommerce/repository/ProductRepository.class
+com/devrobot/springbootecommerce/model/User.class
+com/devrobot/springbootecommerce/resource/CategoryResource.class

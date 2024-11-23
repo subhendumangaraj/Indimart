@@ -1,0 +1,10 @@
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/repository/ProductRepository.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/SpringBootEcommerceApplication.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/model/Category.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/resource/UserResource.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/model/User.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/repository/CategoryRepository.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/repository/UserRepository.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/model/Product.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/resource/CategoryResource.java
+/Users/mac/project/spring-boot-ecommerce-master/src/main/java/com/devrobot/springbootecommerce/resource/ProductResource.java
